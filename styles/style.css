@@ -163,6 +163,7 @@ header {
     font-weight: bold;
     margin-bottom: 24px;
     color: #FFFFFF;
+    max-width: 460px;
 }
 .watch-image button {
     background-color: #FFFFFF;
